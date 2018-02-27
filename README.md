@@ -1,7 +1,7 @@
 # Thermal-image-analysis-MATLAB
  
 Get the code from here: 
-https://gumroad.com/l/thermal_image_analysis_MATLAB 
+https://gum.co/JRVPk
  
 Watch the code from here: 
 https://www.youtube.com/watch?v=gxWvFtSbhAg&t=97s
@@ -13,7 +13,7 @@ This software can be used in various fields like detecting defects in electric c
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
